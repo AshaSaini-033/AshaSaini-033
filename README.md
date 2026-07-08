@@ -14,21 +14,45 @@
 
 ---
 
+---
+ 
 ### 🚀 About Me
-
+ 
 - 🔧 DevOps & Cloud Engineer, focused on automation and reliable infrastructure
 - ☁️ Working with **AWS**, containerizing with **Docker**, orchestrating with **Kubernetes**
 - 🏗️ Infrastructure as Code with **Terraform**
 - 🔁 Building CI/CD pipelines with **Jenkins**
+- 💻 Also aiming to grow as an **SDE (Software Development Engineer)** — strengthening DSA & MERN stack fundamentals
 - 🌱 Currently sharpening DSA skills on LeetCode
+- 🎓 CGPA **7.9** — NIT Srinagar
 - 💬 Ask me about cloud architecture, pipelines, or container orchestration
-
 ---
+### 🏅 Achievements
+ 
+- 🌍 Globally recognized among the **Top 10,000 Contributors in Hacktoberfest**
+- 💻 Active **GSSoC (GirlScript Summer of Code)** Contributor
+- 🎓 **CGPA: 7.9** — National Institute of Technology (NIT) Srinagar
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-Top%2010K%20Contributor-FF8C00?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=girlscoutsoftheusa&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-7.9%2F10-blue?style=for-the-badge&logo=nitsri&logoColor=white" />
+</p>
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,git,github,bash,py" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,jenkins,linux,git,github,bash,py" alt="Skills" />
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css" alt="MERN Stack" />
+   </p>
+   <p align="center">
+  <img src="https://img.shields.io/badge/Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-1E88E5?style=for-the-badge&logo=architecture&logoColor=white" />
+
+</p>
 </p>
 
 ---
