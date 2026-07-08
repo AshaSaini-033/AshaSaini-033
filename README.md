@@ -14,10 +14,8 @@
 
 ---
 
----
- 
 ### 🚀 About Me
- 
+
 - 🔧 DevOps & Cloud Engineer, focused on automation and reliable infrastructure
 - ☁️ Working with **AWS**, containerizing with **Docker**, orchestrating with **Kubernetes**
 - 🏗️ Infrastructure as Code with **Terraform**
@@ -26,33 +24,39 @@
 - 🌱 Currently sharpening DSA skills on LeetCode
 - 🎓 CGPA **7.9** — NIT Srinagar
 - 💬 Ask me about cloud architecture, pipelines, or container orchestration
+
 ---
+
 ### 🏅 Achievements
- 
+
 - 🌍 Globally recognized among the **Top 10,000 Contributors in Hacktoberfest**
-- 💻 Active **GSSoC (GirlScript Summer of Code)** Contributor
+- 💻 2025 **GSSoC (GirlScript Summer of Code)** Contributor
 - 🎓 **CGPA: 7.9** — National Institute of Technology (NIT) Srinagar
+
 <p align="center">
   <img src="https://img.shields.io/badge/Hacktoberfest-Top%2010K%20Contributor-FF8C00?style=for-the-badge&logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge&logo=girlscoutsoftheusa&logoColor=white" />
   <img src="https://img.shields.io/badge/CGPA-7.9%2F10-blue?style=for-the-badge&logo=nitsri&logoColor=white" />
 </p>
 
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,jenkins,linux,git,github,bash,py" alt="Skills" />
- <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,jenkins,linux,git,github,bash,py" alt="DevOps Skills" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css" alt="MERN Stack" />
-   </p>
-   <p align="center">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Computer%20Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
   <img src="https://img.shields.io/badge/System%20Design-1E88E5?style=for-the-badge&logo=architecture&logoColor=white" />
-
-</p>
 </p>
 
 ---
@@ -70,7 +74,13 @@
 
 ---
 
-### 🏆 Trophies
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AshaSaini033/AshaSaini-033/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AshaSaini-033&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
@@ -82,6 +92,12 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/AshaSaini_170?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <a href="https://codolio.com/profile/AshaSaini_170">
+    <img src="https://img.shields.io/badge/Codolio-View%20Full%20Profile-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio Profile" />
+  </a>
 </p>
 
 ---
