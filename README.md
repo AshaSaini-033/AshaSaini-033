@@ -88,7 +88,7 @@
 
 ---
 ### Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AshaSaini033&theme=tokyonight&no-frame=true&row=2&column=4&title=Stars,Commits,Followers,PullRequest,Issues,Repositories&rank=-B,-C,-D" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AshaSaini-033&theme=tokyonight&no-frame=true&row=2&column=4&title=Stars,Commits,Followers,PullRequest,Issues,Repositories&rank=-B,-C,-D" alt="Trophies" />
 
 ### 🧠 LeetCode Stats
 
