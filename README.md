@@ -2,29 +2,77 @@
 
 <p align="center">
   <a href="https://github.com/AshaSaini-033">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+CI%2FCD+with+Jenkins;Always+Automating+Something+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=700&lines=AI+%26+Agentic+AI+Engineer;Generative+AI+%7C+LangChain+%7C+LangGraph;Backend+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+AI-Powered+Systems+%F0%9F%A4%96;Always+Building+Something+%E2%9A%A1%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshaSaini-033&label=Profile%20Views&color=2EA3F7&style=flat" alt="Profile views" />
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔧 DevOps & Cloud Engineer, focused on automation and reliable infrastructure
-- ☁️ Working with **AWS**, containerizing with **Docker**, orchestrating with **Kubernetes**
+- 🤖 Exploring **Generative AI, Agentic AI, RAG, LangChain & LangGraph**
+- 💳 Building **PayPulse AI**, an agentic payment reliability and failure-investigation system combining **transaction tools, RAG, multimodal analysis and Human-in-the-Loop workflows**
+- ☁️ Strong foundation in **AWS, Docker, Kubernetes and cloud infrastructure**
+- 🔧 Building reliable backend and automation workflows with **Python, FastAPI and CI/CD**
 - 🏗️ Infrastructure as Code with **Terraform**
 - 🔁 Building CI/CD pipelines with **Jenkins**
-- 💻 Also aiming to grow as an **SDE (Software Development Engineer)** — strengthening DSA & MERN stack fundamentals
-- 🌱 Currently sharpening DSA skills on LeetCode
+- 💻 Also growing as an **SDE**, strengthening DSA, Java and backend engineering
+- 🧠 Solving DSA problems regularly on **LeetCode**
 - 🎓 CGPA **7.9** — NIT Srinagar
-- 💬 Ask me about cloud architecture, pipelines, or container orchestration
+- 🌱 Currently learning how to build **production-oriented AI systems and intelligent agents**
 
+---
+
+### 🔥 Featured Project
+
+#### 💳 [PayPulse AI — Agentic Payment Reliability & Failure Investigation System](https://paypulseai-ayfuabcyvwhbndf8653kvc.streamlit.app/)
+
+> An AI-powered payment investigation system that combines **Agentic AI, RAG, tool calling, multimodal payment evidence and Human-in-the-Loop safety controls**.
+
+**Core capabilities:**
+
+`LangChain` · `LangGraph` · `RAG` · `Tool Calling` · `Multimodal AI` · `FastAPI` · `SQLite` · `Streamlit` · `Human-in-the-Loop`
+
+👉 **[Live Demo](https://paypulseai-ayfuabcyvwhbndf8653kvc.streamlit.app/)** · **[GitHub Repository](https://github.com/AshaSaini-033/PayPulseAI)**
+
+---
+
+### 🛠️ Tech I'm Working With
+
+**AI / GenAI:**  
+Python · LangChain · LangGraph · RAG · Agentic AI · Tool Calling · Multimodal AI
+
+**Backend:**  
+FastAPI · Node.js · REST APIs · SQL · MongoDB · PostgreSQL
+
+**Cloud & DevOps:**  
+AWS · Docker · Kubernetes · Terraform · Jenkins · CI/CD
+
+**Programming:**  
+Java · Python · SQL · DSA
+
+---
+
+### 🎯 What I Like Building
+
+I enjoy working on systems where **software engineering and AI meet** — from backend infrastructure and cloud automation to intelligent agents that can reason over data, use tools, and assist with real operational workflows.
+
+---
+
+### 📫 Let's Connect
+
+- GitHub: [AshaSaini-033](https://github.com/AshaSaini-033)
+- LinkedIn: [Connect with me](https://www.linkedin.com/)
 ---
 
 ### 🏅 Achievements
