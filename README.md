@@ -100,11 +100,12 @@ I enjoy working on systems where **software engineering and AI meet** — from b
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Operating%20System-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-1E88E5?style=for-the-badge&logo=architecture&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipeline-6A1B9A?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge&logo=robot&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-00897B?style=for-the-badge&logo=googleassistant&logoColor=white" />
 </p>
 
 ---
